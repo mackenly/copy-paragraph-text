@@ -1,5 +1,5 @@
 # copy-paragraph-text
-Copies text from the selected text. Useful for copying text when websites attempt to block copying text.
+Chrome Extension to add alternate copy button. Copies text from the selected text. Useful for copying text when websites attempt to block copying text.
 
 TODO: Add support for copying when websites disable right-clicking.
 
